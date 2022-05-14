@@ -5,12 +5,14 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First create enviroment variables, create .env.local file at root proyect path
 add this lines, and replace XXXXXXXXXX with your firebase api key 
 
+```bash 
 NEXT_PUBLIC_FIREBASE_API_KEY=XXXXXXXXXXXX
 NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=XXXXXXXXXXXX
 NEXT_PUBLIC_FIREBASE_PROYECT_ID=XXXXXXXXXXXX
 NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=XXXXXXXXXXXX
 NEXT_PUBLIC_FIREBASE_MESSAGIN_SENDER_ID=XXXXXXXXXXXX
-NEXT_PUBLIC_FIREBASE_APP_ID=XXXXXXXXXXXX
+NEXT_PUBLIC_FIREBASE_APP_ID=XXXXXXXXXXXX 
+```
 
 Then run the development server:
 
